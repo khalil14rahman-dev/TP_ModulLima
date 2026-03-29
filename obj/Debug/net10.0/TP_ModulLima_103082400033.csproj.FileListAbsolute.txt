@@ -1,0 +1,15 @@
+C:\Users\Khalil\source\repos\TP_ModulLima_103082400033\TP_ModulLima_103082400033\bin\Debug\net10.0\TP_ModulLima_103082400033.exe
+C:\Users\Khalil\source\repos\TP_ModulLima_103082400033\TP_ModulLima_103082400033\bin\Debug\net10.0\TP_ModulLima_103082400033.deps.json
+C:\Users\Khalil\source\repos\TP_ModulLima_103082400033\TP_ModulLima_103082400033\bin\Debug\net10.0\TP_ModulLima_103082400033.runtimeconfig.json
+C:\Users\Khalil\source\repos\TP_ModulLima_103082400033\TP_ModulLima_103082400033\bin\Debug\net10.0\TP_ModulLima_103082400033.dll
+C:\Users\Khalil\source\repos\TP_ModulLima_103082400033\TP_ModulLima_103082400033\bin\Debug\net10.0\TP_ModulLima_103082400033.pdb
+C:\Users\Khalil\source\repos\TP_ModulLima_103082400033\TP_ModulLima_103082400033\obj\Debug\net10.0\TP_ModulLima_103082400033.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khalil\source\repos\TP_ModulLima_103082400033\TP_ModulLima_103082400033\obj\Debug\net10.0\TP_ModulLima_103082400033.AssemblyInfoInputs.cache
+C:\Users\Khalil\source\repos\TP_ModulLima_103082400033\TP_ModulLima_103082400033\obj\Debug\net10.0\TP_ModulLima_103082400033.AssemblyInfo.cs
+C:\Users\Khalil\source\repos\TP_ModulLima_103082400033\TP_ModulLima_103082400033\obj\Debug\net10.0\TP_ModulLima_103082400033.csproj.CoreCompileInputs.cache
+C:\Users\Khalil\source\repos\TP_ModulLima_103082400033\TP_ModulLima_103082400033\obj\Debug\net10.0\TP_ModulLima_103082400033.sourcelink.json
+C:\Users\Khalil\source\repos\TP_ModulLima_103082400033\TP_ModulLima_103082400033\obj\Debug\net10.0\TP_ModulLima_103082400033.dll
+C:\Users\Khalil\source\repos\TP_ModulLima_103082400033\TP_ModulLima_103082400033\obj\Debug\net10.0\refint\TP_ModulLima_103082400033.dll
+C:\Users\Khalil\source\repos\TP_ModulLima_103082400033\TP_ModulLima_103082400033\obj\Debug\net10.0\TP_ModulLima_103082400033.pdb
+C:\Users\Khalil\source\repos\TP_ModulLima_103082400033\TP_ModulLima_103082400033\obj\Debug\net10.0\TP_ModulLima_103082400033.genruntimeconfig.cache
+C:\Users\Khalil\source\repos\TP_ModulLima_103082400033\TP_ModulLima_103082400033\obj\Debug\net10.0\ref\TP_ModulLima_103082400033.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP_ModulLima_103082400033")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d85c772808afbe5e118858eaaccf3630f8d9a505")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP_ModulLima_103082400033")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP_ModulLima_103082400033")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
