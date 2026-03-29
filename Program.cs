@@ -37,9 +37,5 @@ internal class Program
         // Input berupa NIM praktikan (Poin 6.C)
         DataGeneric<string> dataNIM = new DataGeneric<string>("103082400033");
         dataNIM.PrintData();
-
-        // Menjaga console tetap terbuka
-        Console.WriteLine("\nTekan tombol apa saja untuk keluar...");
-        Console.ReadKey();
     }
 }
